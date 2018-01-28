@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="importOrderConfigFilePath" value="$USER_HOME$/epam/ctco-ecom/ide-settings/IDEA/idea_formatter.importorder" />
+        <option name="importOrderFromFile" value="true" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/epam/ctco-ecom/ide-settings/IDEA/idea_formatter.xml" />
+      </ProjectSpecificProfile>
+    </option>
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="id" value="1511882163970" />
+        <option name="importOrderConfigFilePath" value="$USER_HOME$/epam/ctco-ecom/ide-settings/IDEA/idea_formatter.importorder" />
+        <option name="importOrderFromFile" value="true" />
+        <option name="name" value="new" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/epam/ctco-ecom/ide-settings/eclipse/formatter.xml" />
+        <option name="selectedJavaProfile" value="My" />
+      </Settings>
+    </option>
+  </component>
+</project>
